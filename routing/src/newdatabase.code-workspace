@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../newdatabase"
+		},
+		{
+			"name": "IMS_COLLEGE_GZB_BACKEND",
+			"path": "../../../PullProject/IMS_COLLEGE_GZB_BACKEND"
+		},
+		{
+			"path": "../.."
+		}
+	]
+}
